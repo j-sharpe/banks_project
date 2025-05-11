@@ -1,0 +1,16 @@
+2025-May-10-23:10:44,Starting ETL Process.
+2025-May-10-23:10:44,Starting Extraction Process.
+2025-May-10-23:10:45,Extraction Process Completed.
+2025-May-10-23:10:45,Data Transformation Started.
+2025-May-10-23:10:45,Data Transformation Completed.
+2025-May-10-23:10:45,Loading Data to .csv .
+2025-May-10-23:10:45,Loading Data to .csv Completed.
+2025-May-10-23:10:45,Loading Data to SQL Database.
+2025-May-10-23:10:45,Loading Data to SQL Database Completed.
+2025-May-10-23:10:45,Querying Data for London Office.
+2025-May-10-23:10:45,Data Retrieved for London Office.
+2025-May-10-23:10:45,Querying Data for Berlin Office.
+2025-May-10-23:10:45,Data Retrieved for Berlin Office.
+2025-May-10-23:10:45,Querying Data for New Delhi Office.
+2025-May-10-23:10:45,Data Retrieved for New Delhi Office.
+2025-May-10-23:10:45,ETL Process Completed.
